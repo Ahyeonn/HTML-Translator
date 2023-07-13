@@ -75,7 +75,7 @@ func main() {
 
 	// call this flag to indicate which html to translate
 	if *convert != "" {
-		fmt.Print("\n Spanish: es \n French: fr \n Portuguese: pt \n English: en \n Russian: ru \n German: de \n Arabic: ar \n Chinese: zh \n Hindi: hi")
+		fmt.Print("\n Spanish: es \n Portuguese: pt \n English: en \n Russian: ru \n German: de \n Arabic: ar \n Chinese: zh \n Hindi: hi")
 
 		var languageChoice string
 		fmt.Print("\nPlease type the language of the choice : ")
